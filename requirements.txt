@@ -1,0 +1,7 @@
+streamlit>=1.32.0
+streamlit-mic-recorder>=0.0.8
+SpeechRecognition>=3.10.0
+pyttsx3>=2.90
+PyAudio>=0.2.14
+pydub>=0.25.1
+static-ffmpeg>=2.5
